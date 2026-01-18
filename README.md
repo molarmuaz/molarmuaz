@@ -34,7 +34,3 @@ Developed an end-to-end offline-first solution for Pakistani enterprises featuri
 
 **Email:** muaz335@gmail.com  
 **LinkedIn:** [linkedin.com/in/mmuazahmed](https://linkedin.com/in/mmuazahmed)
-
----
-
-💡 Always open to collaborating on ML/AI projects or discussing interesting problems in NLP and semantic search!
