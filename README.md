@@ -1,20 +1,40 @@
-<h1 align="center">Hi 👋, I'm Muaz</h1>
-<h3 align="center">CS Junior at FAST NUCES</h3>
+# Hi 👋, I'm Muaz Ahmed
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=molarmuaz&label=Profile%20views&color=0e75b6&style=flat" alt="molarmuaz" /> </p>
+**CS Senior @ FAST NUCES | ML Engineer | Building AI-Powered Solutions**
 
-- 🌱 I’m currently learning **AI/ML and Web Development**
+Currently working on intelligent systems that bridge NLP and real-world applications—from meeting intelligence platforms to autonomous project management tools.
 
-- 🔭 I’m currently working on **Front-End and AI projects**
+## 🚀 What I'm Building
 
-- 📫 How to reach me **muaz335@gmail.com**
+**ScrumMate** - My Final Year Project  
+An autonomous scrum master assistant that transcribes meetings, generates user stories, and creates sprint-ready tasks with dependency mapping. Built with PyTorch, Whisper, LangGraph, and ChromaDB.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mmuazahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmuazahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/muaz_is_sarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muaz_is_sarif" height="30" width="40" /></a>
-<a href="https://www.behance.net/molarmuaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="molarmuaz" height="30" width="40" /></a>
-</p>
+**Meeting Intelligence Platform** - ML Internship @ Genesys Research Lab  
+Developed an end-to-end offline-first solution for Pakistani enterprises featuring real-time Urdu-English transcription, speaker diarization, and LangChain agentic workflows. Optimized Whisper for code-switching scenarios—achieved 92% faster inference with only 6% quality loss.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🔬 Recent Projects
+
+- **Legal Document Summarization System** - Complete NLP pipeline with custom CBOW embeddings, extractive/abstractive summarization, and semantic search for legal documents
+- **VibeQ** - Semantic music search engine using transformer embeddings and vector search across 1000+ songs (deployed on HuggingFace)
+
+## 💻 Tech Stack
+
+**Languages:** Python, C/C++, JavaScript, Java  
+**AI/ML:** PyTorch, TensorFlow, Transformers, LangChain, Whisper, OpenCV, spaCy  
+**Tools:** Docker, Git, CUDA, FastAPI  
+**Databases:** PostgreSQL, MongoDB, ChromaDB, FAISS
+
+## 🎯 Currently Exploring
+
+- RAG architectures for conversational data
+- Optimizing LLMs for low-resource environments
+- Agentic workflows with LangGraph
+
+## 📫 Let's Connect
+
+**Email:** muaz335@gmail.com  
+**LinkedIn:** [linkedin.com/in/mmuazahmed](https://linkedin.com/in/mmuazahmed)
+
+---
+
+💡 Always open to collaborating on ML/AI projects or discussing interesting problems in NLP and semantic search!
